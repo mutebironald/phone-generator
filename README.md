@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is a phone number generator that generates unique numbers. The number of phone numbers generated is varied depending on the specifications of the user.
+
 ## Available Scripts
 
 In the project directory, you can run:
