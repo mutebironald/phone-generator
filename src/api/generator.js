@@ -1,4 +1,3 @@
-
 var generator = function(){
     var randomize = Math.random();
     var randomizeString = randomize.toString();
